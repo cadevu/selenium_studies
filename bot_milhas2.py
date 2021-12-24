@@ -1,7 +1,5 @@
 from selenium.webdriver import Firefox
 from selenium.webdriver.common.keys import Keys
-#login automationcadevu@gmail.com
-#senha papodeholder16
 from selenium.webdriver.common.by import By
 from time import sleep
 from datetime import datetime
